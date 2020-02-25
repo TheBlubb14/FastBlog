@@ -13,8 +13,8 @@ github_username: TheBlubb14
 github_repo: "FastBlog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
-url: "https://TheBlubb14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/FastBlog" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
+url: "https://blog.blubb.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
 
 # Email and twitter are optional:
 email: 
